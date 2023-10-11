@@ -1,4 +1,4 @@
-module github.com/Sudhir0228/mymodules
+module github.com/Sudhir0228/modules
 
 go 1.21.0
 
